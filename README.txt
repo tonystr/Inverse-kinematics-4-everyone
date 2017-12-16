@@ -1,3 +1,1 @@
-there are two files here (three including the readme), you only 
-need to open one, gms1 if you have gamemaker studio 1.4, gms2 
-if you have gamemaker studio 2.
+You only need one file. Chose ik_tutn.gmz if you have gamemaker studio 1.4, chose ik_tutn.yyz if you have gamemaker studio 2.
