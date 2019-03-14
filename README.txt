@@ -1,1 +1,2 @@
-You only need one file. Chose ik_tutn.gmz if you have gamemaker studio 1.4, chose ik_tutn.yyz if you have gamemaker studio 2.
+For GameMakerStudio 2 users, download the .yyz
+For GameMakerStudio 1.4 users, download the .gmz
